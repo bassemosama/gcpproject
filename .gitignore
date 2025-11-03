@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+bassem-477016-bdac299cbbdf.json
+terraform.tfstate
+terraform.tfstate.backup
